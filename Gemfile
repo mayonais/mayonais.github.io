@@ -6,4 +6,7 @@ gem "jekyll-remote-theme"
 gem "jekyll-archives"
 
 gem "minimal-mistakes-jekyll"
+gem 'jekyll-sitemap'
+gem 'jekyll-gist'
+gem 'jekyll-feed'
 
