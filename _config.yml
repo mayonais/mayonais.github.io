@@ -23,7 +23,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Sophia"
 description              :
 url                      : "https://mayonais.github.io/"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mayonais/mayonais.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/mayo_gudetama.png"
@@ -205,7 +205,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: ""
 
 
 # Plugins (previously gems:)
@@ -253,17 +253,6 @@ whitelist:
       category: /categories/:name/
       tag: /tags/:name/
 # https://github.com/jekyll/jekyll-archives
-defaults:
-  - scope:
-      path: ""
-      type: tag
-    values:
-      author_profile: true
-  - scope:
-      path: ""
-      type: category
-    values:
-      author_profile: true
 
 
 # HTML Compression
@@ -289,7 +278,6 @@ defaults:
       related: true
       show_date: true
 
-defaults:
   # _pages
   - scope:
       path: ""
@@ -297,10 +285,20 @@ defaults:
     values:
       layout: single
 
-defaults:
   # _foo
   - scope:
       path: ""
       type: foo
     values:
       layout: single
+
+  - scope:
+      path: ""
+      type: tag
+    values:
+      author_profile: true
+  - scope:
+      path: ""
+      type: category
+    values:
+      author_profile: true
