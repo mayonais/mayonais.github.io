@@ -98,8 +98,11 @@ author:
   name             : "Sophia Mao"
   avatar           : "/assets/images/pfp.png"
   bio              :
-  location         : "Chicago, USA"
+  location         :
   links:
+    - label: "Chicago, USA"
+      icon: "fas fa-map-marker-alt"
+      url:
     - label: "Email"
       icon: "far fa-envelope"
       url: "yysmao@gmail.com"
