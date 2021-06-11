@@ -102,7 +102,7 @@ author:
   links:
     - label: "Chicago, USA"
       icon: "fas fa-map-marker-alt"
-      url:
+      url: "https://mayonais.github.io/"
     - label: "Email"
       icon: "far fa-envelope"
       url: "yysmao@gmail.com"
