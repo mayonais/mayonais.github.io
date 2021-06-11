@@ -1,13 +1,8 @@
 ---
-layout: single
-title: "Blog"
-permalink: /blog/
-author_profile: true
+Title: "My Purpose"
 ---
 
-{% for post in site.posts %}
-  {% include archive-single.html%}
-{% endfor %}
+Hello.
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
