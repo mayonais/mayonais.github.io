@@ -271,29 +271,9 @@ defaults:
       layout: single
       author_profile: true
       related: true
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-defaults:
-  # _foo
-  - scope:
-      path: ""
-      type: foo
-    values:
-      layout: single
-defaults:
-  - scope:
-      path: ""
-      type: tag
-    values:
-      author_profile: true
-  - scope:
-      path: ""
-      type: category
-    values:
-      author_profile: true
+
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
