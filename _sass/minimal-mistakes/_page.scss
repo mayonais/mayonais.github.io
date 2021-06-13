@@ -79,11 +79,11 @@ body {
 
 .page__lead {
   font-family: $global-font-family;
-  font-size: $type-size-4;
+  font-size: $type-size-6;
 }
 
 .page__content {
-  h2 {
+  h3 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
   }
@@ -108,7 +108,7 @@ body {
   p,
   li,
   dl {
-    font-size: 0.8em;
+    font-size: 0.75em;
   }
 
   /* paragraph indents */
