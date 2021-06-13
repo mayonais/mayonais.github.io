@@ -109,11 +109,12 @@ body {
   li,
   dl {
     font-size: 0.8em;
-    margin: 1px 0px
+    margin: 2px 0px
   }
 
   p + ul {
-    margin-top: -19px;
+    margin-top: -18px;
+    line-height: 1px;
   }
 
   /* paragraph indents */
