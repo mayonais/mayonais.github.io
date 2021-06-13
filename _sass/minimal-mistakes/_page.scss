@@ -69,7 +69,7 @@ body {
 }
 
 .page__title {
-  margin-top: 5;
+  margin-top: 20;
   line-height: 1;
 
   & + .page__meta {
@@ -110,11 +110,6 @@ body {
   dl {
     font-size: 0.8em;
     padding: -5px 0px
-  }
-
-  ul,
-  p {
-    margin:auto;
   }
 
   /* paragraph indents */
