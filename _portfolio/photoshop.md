@@ -1,5 +1,8 @@
 ---
+title:
 excerpt: "Graphics created using Adobe Photoshop."
+layout: single
+permalink: /portfolio/photoshop/
 gallery:
   - image_path: /assets/images/hos.png
   - image_path: /assets/images/intfbl.png
