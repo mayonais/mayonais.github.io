@@ -82,10 +82,14 @@ body {
   font-size: $type-size-4;
 }
 
+ul li {
+    padding: 3px 0px;
+}
+
 .page__content {
   ul li {
-    padding: 4px -5px;
-}
+   padding: 3px -5px;
+  }
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
