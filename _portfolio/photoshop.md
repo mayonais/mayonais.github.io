@@ -1,16 +1,18 @@
 ---
 excerpt: "Graphics created using Adobe Photoshop."
 gallery:
-  - url: /assets/images/heroine-on-strike.png
+  - url: /portfolio/photoshop/heroine-on-strike.png
     image_path: assets/images/hos.png
-  - url: /assets/images/i'm-not-the-final-boss'-lover.jpg
+  - url: /portfolio/photoshop/i'm-not-the-final-boss'-lover.jpg
     image_path: assets/images/intfbl.png
-  - url: /assets/images/chronicles-of-the-kilner-family.png
+  - url: /portfolio/photoshop/chronicles-of-the-kilner-family.png
     image_path: assets/images/cotkf.png
-  - url: /assets/images/i-adopted-a-villainous-dad.png
+  - url: /portfolio/photoshop/i-adopted-a-villainous-dad.png
     image_path: assets/images/iaavd.png
-  - url: /assets/images/the-male-lead-is-mine.png
-    image_path: assets/images/tmlim.png
+  - url: /portfolio/photoshop/the-male-lead-is-mine.png
+    image_path: assets/images/tmlim.png 
+gallery2:
+
 ---
 
 <h3> WordExcerpt </h3>
