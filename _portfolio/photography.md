@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Photography"
 excerpt: "Photographs taken by me."
 gallery:
   - url: /assets/images/chicago.png

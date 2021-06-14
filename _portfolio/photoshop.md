@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Photoshop"
 excerpt: "Graphics created using Adobe Photoshop."
 gallery:
   - url: /assets/images/hos.png
@@ -19,8 +19,6 @@ gallery:
     image_path: /assets/images/fly_away.png
   - url: /assets/images/nostalgia.png
     image_path: /assets/images/nostalgia.png
-  - url: /assets/images/glitch.gif
-    image_path: /assets/images/glitch.gif
 ---
 <h3> WordExcerpt </h3>
 Below are a few examples of my work for WordExcerpt, a US based publishing company focused on the acquisition of eastern literature and localizing into English. As a graphic artist, my job is to create English titles for Korean covers, and try to replicate the original text and style as much as possible. On the left, you can see the original Korean cover. To the right is my work.
