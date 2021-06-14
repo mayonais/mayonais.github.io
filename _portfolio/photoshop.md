@@ -23,9 +23,15 @@ gallery2:
     image_path: /assets/images/glitch.gif
   - url: /assets/images/gold.png
     image_path: /assets/images/gold.png
+  - url: /assets/images/mishko.png
+    image_path: /assets/images/mishko.png
+  - url: /assets/images/moongayoung.png
+    image_path: /assets/images/moongayoung.png
+  - url: /assets/images/leedohyun.png
+    image_path: /assets/images/leedohyun.png
 ---
 <h3> WordExcerpt </h3>
-<p> Below are a few examples of my work for WordExcerpt, a US based publishing company focused on the acquisition of eastern literature and localizing into English. As a graphic artist, my job is to create English titles for Korean covers, and try to replicate the original text and style as much as possible. On the left, you can see the original Korean cover. To the right is my work. </p>
+<p> Below are a few examples of my work for WordExcerpt, a US based publishing company focused on the acquisition of eastern literature and localizing into English. As a graphic artist, my job is to create English titles for Korean covers, and try to replicate the original text and style as much as possible. </p>
 {% include gallery id="gallery" %}
 
 <h3> Other </h3>
