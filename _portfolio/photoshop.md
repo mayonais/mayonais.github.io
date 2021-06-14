@@ -3,36 +3,36 @@ title: ""
 excerpt: "Graphics created using Adobe Photoshop."
 gallery:
   - url: /portfolio/photoshop/hos.png
-    image_path: assets/images/hos.png
+    image_path: /assets/images/hos.png
   - url: /portfolio/photoshop/intfbl.png
-    image_path: assets/images/intfbl.png
+    image_path: /assets/images/intfbl.png
   - url: /portfolio/photoshop/cotkf.png
-    image_path: assets/images/cotkf.png
+    image_path: /assets/images/cotkf.png
   - url: /portfolio/photoshop/iaavd.png
-    image_path: assets/images/iaavd.png
+    image_path: /assets/images/iaavd.png
   - url: /portfolio/photoshop/tmlim.png
-    image_path: assets/images/tmlim.png
+    image_path: /assets/images/tmlim.png
  gallery2:
   - url: /portfolio/photoshop/lee-dohyun.png
-    image_path: assets/images/lee_dohyun.png
+    image_path: /assets/images/lee_dohyun.png
   - url: /portfolio/photoshop/nostalgia.png
-    image_path: assets/images/nostalgia.png
+    image_path: /assets/images/nostalgia.png
   - url: /portfolio/photoshop/moon-gayoung.png
-    image_path: assets/images/moon_gayoung.png
+    image_path: /assets/images/moon_gayoung.png
   - url: /portfolio/photoshop/gold.png
-    image_path: assets/images/gold.png
+    image_path: /assets/images/gold.png
   - url: /portfolio/photoshop/mishko.png
-    image_path: assets/images/mishko.png  
+    image_path: /assets/images/mishko.png  
  gallery3:
   - url: /portfolio/photoshop/fly-away.png
-    image_path: assets/images/fly_away.png
+    image_path: /assets/images/fly_away.png
   - url: /portfolio/photoshop/waves.png
-    image_path: assets/images/waves.png    
+    image_path: /assets/images/waves.png    
  gallery4:
   - url: /portfolio/photoshop/glitch.png
-    image_path: assets/images/glitch.png
+    image_path: /assets/images/glitch.png
   - url: /portfolio/photoshop/skiing.png
-    image_path: assets/images/skiing.png       
+    image_path: /assets/images/skiing.png       
 ---
 
 <h3> WordExcerpt </h3>
@@ -43,7 +43,7 @@ Below are a few examples of my work for WordExcerpt, a US based publishing compa
 Some graphics I did for fun.
 {% include gallery id="gallery2" caption="" %}
 
-<h4> Photography + PS </h4>
+<h4> Photography + Ps </h4>
 The pictures below were taken by my Canon Rebel T3i camera.
 {% include gallery id="gallery3" caption="" %}
 
