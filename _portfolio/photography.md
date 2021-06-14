@@ -20,5 +20,6 @@ gallery:
     image_path: /assets/images/white-flower.png
 ---
 <h3> Canon Rebel T3i camera </h3>
+<p>The quality has been slightly decreased so that the image size isn't too big.</p>
 <p><i class="fas fa-map-marker-alt"></i> Chicago, Illinois, USA</p>
 {% include gallery id="gallery" caption="" %}
