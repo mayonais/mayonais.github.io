@@ -97,7 +97,7 @@ analytics:
 author:
   name             : "Sophia Mao"
   avatar           : "/assets/images/pfp.png"
-  bio              :
+  bio              : " "
   location         : "Chicago, USA"
   links:
     - label: "Email"
