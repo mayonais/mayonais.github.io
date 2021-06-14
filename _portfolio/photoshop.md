@@ -22,7 +22,7 @@ gallery:
 ---
 <h3> WordExcerpt </h3>
 Below are a few examples of my work for WordExcerpt, a US based publishing company focused on the acquisition of eastern literature and localizing into English. As a graphic artist, my job is to create English titles for Korean covers, and try to replicate the original text and style as much as possible. On the left, you can see the original Korean cover. To the right is my work.
-{% include gallery id="gallery" caption="" %}
+{% include gallery caption="" %}
 
 <h3> Other </h3>
 Graphics I made for fun.
