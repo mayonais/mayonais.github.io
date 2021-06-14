@@ -15,8 +15,8 @@ gallery:
  gallery2:
   - url: /assets/images/waves.png
     image_path: /assets/images/waves.png
-  - url: /assets/images/fly-away.png
-    image_path: /assets/images/fly_away.png
+  - url: /assets/images/flyaway.png
+    image_path: /assets/images/flyaway.png
   - url: /assets/images/nostalgia.png
     image_path: /assets/images/nostalgia.png
 ---
