@@ -37,17 +37,19 @@ gallery:
 
 <h3> WordExcerpt </h3>
 Below are a few examples of my work for WordExcerpt, a US based publishing company focused on the acquisition of eastern literature and localizing into English. As a graphic artist, my job is to create English titles for Korean covers, and try to replicate the original text and style as much as possible. On the left, you can see the original Korean cover. To the right is my work.
-{% include gallery id="gallery" layout="half" %}
+{% include gallery id="gallery" caption="" %}
 
 <h3> Leisure </h3>
 Some graphics I did for fun.
-{% include gallery id="gallery2" layout="half" %}
+{% include gallery id="gallery2" caption="" %}
 
 <h4> Photography + PS </h4>
 The pictures below were taken by my Canon Rebel T3i camera.
-{% include gallery id="gallery3" layout="half" %}
+{% include gallery id="gallery3" caption="" %}
 
 <h4> GIFs </h4>
 GIFs I created using Photoshop.
-{% include gallery id="gallery4" layout="half" %}
+{% include gallery id="gallery4" caption="" %}
  
+If you would like to see the resources I used to create these graphics, check out this [link] (/https://drive.google.com/drive/folders/1epWAD-ZGuQLilRX0bZSfOem0Q00epUL7?usp=sharing)
+{: .notice}
