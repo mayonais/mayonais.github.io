@@ -4,7 +4,7 @@ title:  "Why I Decided to Start Blogging"
 date:   10-06-2021
 author_profile: true
 category:
-excerpt: "But in the end, I like to write, and writers must overcome these things or they will never be able to write something worthy."
+excerpt: " "
 
 ---
 
