@@ -36,7 +36,7 @@ gallery2:
 <p> Below are a few examples of my work for WordExcerpt, a US based publishing company focused on the acquisition of eastern literature and localizing into English. As a graphic artist, my job is to create English titles for Korean covers, and try to replicate the original text and style as much as possible. </p>
 {% include gallery id="gallery" %}
 
-<h3> Other </h3>
+<h3> Others </h3>
 <p> Graphics I made for fun. </p>
 {% include gallery id="gallery2" %}
 
