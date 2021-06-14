@@ -2,7 +2,7 @@
 title: "Illustrator"
 excerpt: "Graphics created using Adobe Illustrator."
 gallery:
-  - url: /portfolio/illustrator/ni-hao.png
+  - url: /assets/images/ni-hao.png
     image_path: /assets/images/ni_hao.png
 ---
 

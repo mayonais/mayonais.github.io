@@ -2,31 +2,31 @@
 title: "Photoshop"
 excerpt: "Graphics created using Adobe Photoshop."
 gallery:
-  - url: /portfolio/photoshop/hos.png
+  - url: /assets/images/hos.png
     image_path: /assets/images/hos.png
-  - url: /portfolio/photoshop/intfbl.png
+  - url: /assets/images/intfbl.png
     image_path: /assets/images/intfbl.png
-  - url: /portfolio/photoshop/cotkf.png
+  - url: /assets/images/cotkf.png
     image_path: /assets/images/cotkf.png
-  - url: /portfolio/photoshop/iaavd.png
+  - url: /assets/images/iaavd.png
     image_path: /assets/images/iaavd.png
-  - url: /portfolio/photoshop/tmlim.png
+  - url: /assets/images/tmlim.png
     image_path: /assets/images/tmlim.png
  gallery2:
-  - url: /portfolio/photoshop/lee-dohyun.png
+  - url: /assets/images/lee-dohyun.png
     image_path: /assets/images/lee_dohyun.png
-  - url: /portfolio/photoshop/nostalgia.png
+  - url: /assets/images/nostalgia.png
     image_path: /assets/images/nostalgia.png
-  - url: /portfolio/photoshop/moon-gayoung.png
+  - url: /assets/images/moon-gayoung.png
     image_path: /assets/images/moon_gayoung.png
-  - url: /portfolio/photoshop/gold.png
+  - url: /assets/images/gold.png
     image_path: /assets/images/gold.png
-  - url: /portfolio/photoshop/mishko.png
+  - url: /assets/images/mishko.png
     image_path: /assets/images/mishko.png  
  gallery3:
-  - url: /portfolio/photoshop/fly-away.png
+  - url: /assets/images/fly-away.png
     image_path: /assets/images/fly_away.png
-  - url: /portfolio/photoshop/waves.png
+  - url: /assets/images/waves.png
     image_path: /assets/images/waves.png    
  gallery4:
   - url: /portfolio/photoshop/glitch.gif
