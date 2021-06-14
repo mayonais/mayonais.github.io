@@ -4,7 +4,7 @@ excerpt: "Photographs taken by me."
 gallery:
   - url: /assets/images/chicago.png
     image_path: /assets/images/chicago.png
-  - url: /portfolio/photoshop/boat.png
+  - url: https://mayonais.github.io/assets/images/boat.png
     image_path: /assets/images/boat.png
   - url: /assets/images/seagull1.png
     image_path: /assets/images/seagull1.png

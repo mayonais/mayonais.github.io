@@ -2,7 +2,7 @@
 title: "Illustrator"
 excerpt: "Graphics created using Adobe Illustrator."
 gallery:
-  - url: /assets/images/ni-hao.png
-    image_path: /assets/images/ni_hao.png
+  - url: https://mayonais.github.io/assets/images/nihao.png
+    image_path: /assets/images/nihao.png
 ---
 {% include gallery id="gallery" %}
