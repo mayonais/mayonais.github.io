@@ -19,8 +19,6 @@ gallery2:
     image_path: /assets/images/nostalgia.png
   - url: /assets/images/waves.png
     image_path: /assets/images/waves.png
-  - url: /assets/images/glitch.gif
-    image_path: /assets/images/glitch.gif
   - url: /assets/images/gold.png
     image_path: /assets/images/gold.png
   - url: /assets/images/mishko.png
@@ -29,6 +27,10 @@ gallery2:
     image_path: /assets/images/moongayoung.png
   - url: /assets/images/leedohyun.png
     image_path: /assets/images/leedohyun.png
+  - url: /assets/images/skiing.gif
+    image_path: /assets/images/skiing.gif
+  - url: assets/images/glitch.gif
+    image_path: assets/images/glitch.gif
 ---
 <h3> WordExcerpt </h3>
 <p> Below are a few examples of my work for WordExcerpt, a US based publishing company focused on the acquisition of eastern literature and localizing into English. As a graphic artist, my job is to create English titles for Korean covers, and try to replicate the original text and style as much as possible. </p>
