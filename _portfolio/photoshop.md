@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Photoshop"
 excerpt: "Graphics created using Adobe Photoshop."
 gallery:
   - url: /portfolio/photoshop/hos.png
@@ -29,10 +29,10 @@ gallery:
   - url: /portfolio/photoshop/waves.png
     image_path: /assets/images/waves.png    
  gallery4:
-  - url: /portfolio/photoshop/glitch.png
-    image_path: /assets/images/glitch.png
-  - url: /portfolio/photoshop/skiing.png
-    image_path: /assets/images/skiing.png       
+  - url: /portfolio/photoshop/glitch.gif
+    image_path: /assets/images/glitch.gif
+  - url: /portfolio/photoshop/skiing.gif
+    image_path: /assets/images/skiing.gif
 ---
 
 <h3> WordExcerpt </h3>
@@ -51,5 +51,5 @@ The pictures below were taken by my Canon Rebel T3i camera.
 GIFs I created using Photoshop.
 {% include gallery id="gallery4" caption="" %}
  
-If you would like to see the resources I used to create these graphics, check out this [link] (/https://drive.google.com/drive/folders/1epWAD-ZGuQLilRX0bZSfOem0Q00epUL7?usp=sharing)
+If you would like to see the resources I used to create these graphics, check out this <a href="https://drive.google.com/drive/folders/1epWAD-ZGuQLilRX0bZSfOem0Q00epUL7?usp=sharing">link!</a>
 {: .notice}
