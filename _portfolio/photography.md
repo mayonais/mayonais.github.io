@@ -1,5 +1,5 @@
 ---
-title: "Photography"
+title: ""
 excerpt: "Photographs taken by me."
 gallery:
   - url: /assets/images/chicago.png
@@ -19,7 +19,6 @@ gallery:
   - url: /assets/images/white-flower.png
     image_path: /assets/images/white_flower.png
 ---
-
-<h3> Canon Rebel T3i </h3>
-<h4> <i class="fas fa-map-marker-alt"></i> Chicago, Illinois, USA </h4>
+<h3> Canon Rebel T3i camera </h3>
+<i class="fas fa-map-marker-alt"></i> Chicago, Illinois, USA
 {% include gallery id="gallery" caption="" %}
