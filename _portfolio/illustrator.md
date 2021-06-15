@@ -1,5 +1,5 @@
 ---
-title: "Illustrator"
+title: "Adobe Illustrator"
 excerpt: "Graphics created using Adobe Illustrator."
 gallery:
   - url: https://mayonais.github.io/assets/images/nihao.png

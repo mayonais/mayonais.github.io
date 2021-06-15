@@ -1,5 +1,5 @@
 ---
-title: "Photoshop"
+title: "Adobe Photoshop"
 excerpt: "Graphics created using Adobe Photoshop."
 gallery:
   - url: /assets/images/hos.png

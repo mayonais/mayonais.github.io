@@ -1,10 +1,10 @@
 ---
 layout: single
-title:  "Why I Decided to Start Blogging"
-date:   10-06-2021
+title:  "Why I'm Starting a Blog"
+date:   14-06-2021
 author_profile: true
 category:
-excerpt: " "
+excerpt: "June 14, 2021"
 header:
   image: /assets/images/why-i'm-starting-a-blog.png
 ---
