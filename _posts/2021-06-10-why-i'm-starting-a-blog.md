@@ -5,7 +5,8 @@ date:   10-06-2021
 author_profile: true
 category:
 excerpt: " "
-
+header:
+  image: /assets/images/why-i'm-starting-a-blog.png
 ---
 
 I have always been an avid reader and writer since childhood. The Magic Tree House series, The Chronicles of Narnia, and anything by Rick Riordan filled my days with epic adventures and strange beings. But it wasn't until earlier this year of 2021 did I entertain myself with the idea of starting a blog. At that time, I had just become active on Goodreads and discovered the world of book reviews. I had also finished reading "How to Win at College" by Cal Newport, a book my father bought for me in lieu of of the uneasiness that comes with an only child's departure to college. In the two times I have read that book, I find that one of Newport's  most memorable tips is in chapter 27, "Write Outside of Class."

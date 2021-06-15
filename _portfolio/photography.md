@@ -18,6 +18,8 @@ gallery:
     image_path: /assets/images/white-branch.png
   - url: /assets/images/white-flower.png
     image_path: /assets/images/white-flower.png
+header:
+  image: /assets/images/photography.png
 ---
 <h3> Canon Rebel T3i camera </h3>
 <p><i class="fas fa-map-marker-alt"></i> Chicago, Illinois, USA</p>
