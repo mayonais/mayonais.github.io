@@ -96,9 +96,9 @@ analytics:
 # Site Author
 author:
   name             : "Sophia Mao"
-  avatar           : "/assets/images/pfp.png"
+  avatar           : "/assets/images/pfp2.png"
   bio              : " "
-  location         : "Chicago, USA"
+  location         : "Montreal, CA"
   links:
     - label: "Email"
       icon: "far fa-envelope"
