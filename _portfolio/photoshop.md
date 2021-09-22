@@ -35,11 +35,11 @@ header:
   image: /assets/images/adobephotoshop.png
 ---
 <h3> WordExcerpt </h3>
-<p> Below are a few examples of my work for WordExcerpt, a US based publishing company focused on the acquisition of eastern literature and localizing into English. As a graphic artist, my job is to create English titles for Korean covers, and try to replicate the original text and style as much as possible. </p>
+<p> Below are a few examples of my work for WordExcerpt, a US based publishing company focused on acquiring eastern literature and localizing them into English. As a graphic artist, my job is to create English titles for Korean covers, and try to replicate the original text and style as much as possible. </p>
 {% include gallery id="gallery" %}
 
 <h3> Others </h3>
-<p> Graphics I made for fun. </p>
+<p> Graphics I made for fun </p>
 {% include gallery id="gallery2" %}
 
 If you would like to see the resources I used to create these graphics, check out this <a href="https://drive.google.com/drive/folders/1epWAD-ZGuQLilRX0bZSfOem0Q00epUL7?usp=sharing">link!</a>

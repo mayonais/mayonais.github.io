@@ -18,6 +18,8 @@ gallery:
     image_path: /assets/images/white-branch.png
   - url: /assets/images/white-flower.png
     image_path: /assets/images/white-flower.png
+  - url: /assets/images/dandelion.png
+    image_path: /assets/images/dandelion.png
 header:
   image: /assets/images/photography.png
 ---
