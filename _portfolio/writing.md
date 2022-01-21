@@ -15,16 +15,16 @@ Listed from most recent to least recent:
     <li> <a href="https://shssoutherner.org/8074/entertainment/free-resources-to-keep-you-engaged-during-quarantine/">Free Resources to Keep You Engaged During Quarantine</a>: Someone sent the following email to my journalism teacher a year later! It's a little difficult to read, so I've included a transcription.</li>
 </ul>
 {% include gallery id="gallery" %}
-<p><blockquote>
+<blockquote>
 
-Good Morning Ms. Cresci and Ms. Hastings,
+<p> Good Morning Ms. Cresci and Ms. Hastings,</p>
 
-Just wanted to quickly reach out and say thank you! As a retired teacher, I'm going to be helping out with my grandsons' remote learning this year — they started here last week. Luke is 9 and Ben is 7. I wanted to gather some good online resources we could use together, since I'm not sure how this year is going to go LOL. But I wanted to let you know that I got so many great ones thanks to the Southerner's "resources to keep you engaged" page.
+<p>Just wanted to quickly reach out and say thank you! As a retired teacher, I'm going to be helping out with my grandsons' remote learning this year — they started here last week. Luke is 9 and Ben is 7. I wanted to gather some good online resources we could use together, since I'm not sure how this year is going to go LOL. But I wanted to let you know that I got so many great ones thanks to the Southerner's "resources to keep you engaged" page.</p>
 
-We found so many activities and ideas and because of that, the boys suggested that we send a virtual thank you note :) thank you so much! They love the virtual tours — they're both really into animals and nature so the zoo sites & web cams are awesome!
+<p>We found so many activities and ideas and because of that, the boys suggested that we send a virtual thank you note :) thank you so much! They love the virtual tours — they're both really into animals and nature so the zoo sites & web cams are awesome!</p>
 
-We're not in the Great Neck district but with everything going on in the world and the school year starting, we wanted to pay it forward and put positivity out there, so we thought that we'd share another useful resource with you, just like you helped us! Ben & Luke did some research together and found this awesome page for virtual field trips from home.
+<p>We're not in the Great Neck district but with everything going on in the world and the school year starting, we wanted to pay it forward and put positivity out there, so we thought that we'd share another useful resource with you, just like you helped us! Ben & Luke did some research together and found this awesome page for virtual field trips from home.</p>
 
-We got a ton of use out of it so the boys thought you'd like it and that you could add it to the other links on your "resources to stay engaged" page! Hopefully it's helpful to you.
+<p>We got a ton of use out of it so the boys thought you'd like it and that you could add it to the other links on your "resources to stay engaged" page! Hopefully it's helpful to you.</p>
 
-Thank you both so much, and stay safe! Would you be able to add the boys' suggestion, do you think? They would be so proud of themselves and I've been trying to show them how good it feels to help others so I'd love to show them. Hope to hear from you soon, thanks!</blockquote></p>
+<p>Thank you both so much, and stay safe! Would you be able to add the boys' suggestion, do you think? They would be so proud of themselves and I've been trying to show them how good it feels to help others so I'd love to show them. Hope to hear from you soon, thanks!</p></blockquote>

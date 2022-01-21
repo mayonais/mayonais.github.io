@@ -1,6 +1,6 @@
 ---
 title: "Python"
-excerpt: "Code written using Python."
+excerpt: "Code written in Python."
 header:
   image: /assets/images/adobephotoshop.png
 gallery:
