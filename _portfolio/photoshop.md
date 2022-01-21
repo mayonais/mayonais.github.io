@@ -31,15 +31,16 @@ gallery2:
     image_path: /assets/images/skiing.gif
   - url: assets/images/glitch.gif
     image_path: assets/images/glitch.gif
+  - url: assets/images/esha.png
+    image_path: assets/images/esha.png
 header:
-  image: /assets/images/adobephotoshop.png
+    image: /assets/images/adobephotoshop.png
 ---
 <h3> WordExcerpt </h3>
-<p> Below are a few examples of my work for WordExcerpt, a US based publishing company focused on acquiring eastern literature and localizing them into English. As a graphic artist, my job is to create English titles for Korean book covers, trying to replicate the original text and style as much as possible. </p>
+<p> Below are a few examples of my work for WordExcerpt, a US-based publishing company focused on acquiring eastern literature and localizing them into English. As a graphic artist, my job is to create English titles for Korean book covers, trying to replicate the original text and style as much as possible. </p>
 {% include gallery id="gallery" %}
 
-<h3> Others </h3>
-<p> Graphics I made for fun </p>
+<h3> Other Graphics </h3>
 {% include gallery id="gallery2" %}
 
 If you would like to see the resources I used to create these graphics, check out this <a href="https://drive.google.com/drive/folders/1epWAD-ZGuQLilRX0bZSfOem0Q00epUL7?usp=sharing">link!</a>
