@@ -101,7 +101,7 @@ author:
   links:
     - label: "Email"
       icon: "far fa-envelope"
-      url: "yysmao@gmail.com"
+      url: <a href = "mailto: yysmao@gmail.com></a>
     - label: "LinkedIn"
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/sophia-mao-49064316a/"
