@@ -99,9 +99,9 @@ author:
   avatar           : "/assets/images/pfp4.png"
   bio              : " "
   links:
-    - label: "Email"
+    - label: "yysmao@gmail.com"
       icon: "far fa-envelope"
-      url: <a href = "mailto: yysmao@gmail.com></a>
+      url: ""
     - label: "LinkedIn"
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/sophia-mao-49064316a/"
