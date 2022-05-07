@@ -43,7 +43,7 @@ header:
     image: /assets/images/photography.png
 ---
 <p><i class="fas fa-map-marker-alt"></i>  Chicago, Illinois, USA</p>
-{% include gallery id="gallery" caption="" %}
+{% include gallery id="gallery" %}
 
 <p><i class="fas fa-map-marker-alt"></i>  Montreal, Quebec, CA</p>
-{% include gallery id="gallery2" caption="" %}
+{% include gallery id="gallery2" %}

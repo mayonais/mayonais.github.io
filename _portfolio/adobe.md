@@ -1,5 +1,4 @@
 ---
-title: "Adobe"
 excerpt: "Graphics created using Adobe Photoshop and Illustrator."
 gallery:
   - url: /assets/images/flyaway.png
@@ -18,15 +17,17 @@ gallery:
     image_path: /assets/images/leedohyun.png
   - url: /assets/images/skiing.gif
     image_path: /assets/images/skiing.gif
-  - url: assets/images/glitch.gif
-    image_path: assets/images/glitch.gif
-  - url: /assets/images/hos.png
-    image_path: /assets/images/hos.png 
-  - url: /assets/images/intfbl.png
-    image_path: /assets/images/intfbl.png
+  - url: assets/images/merged.gif
+    image_path: assets/images/merged.gif
+  - url: /assets/images/glitch.png
+    image_path: /assets/images/glitch.png
 gallery2:
   - url: /assets/images/nihao.png
     image_path: /assets/images/nihao.png
+  - url: /assets/images/blank.png
+    image_path: /assets/images/blank.png 
+  - url: /assets/images/blank.png
+    image_path: /assets/images/blank.png
 header:
     image: /assets/images/adobephotoshop.png
 ---
