@@ -21,24 +21,24 @@ gallery:
   - url: /assets/images/dandelion.png
     image_path: /assets/images/dandelion.png
 gallery2:
-  - url: https://mayonais.github.io/assets/images/bridge1.png
-    image_path: /assets/images/bridge1.png
-  - url: https://mayonais.github.io/assets/images/bridge2.png
-    image_path: /assets/images/bridge2.png
-  - url: https://mayonais.github.io/assets/images/casino1.png
-    image_path: /assets/images/casino1.png
-  - url: https://mayonais.github.io/assets/images/casino2.png
-    image_path: /assets/images/casino2.png
-  - url: https://mayonais.github.io/assets/images/dome.png
-    image_path: /assets/images/dome.png
-  - url: https://mayonais.github.io/assets/images/groundhog1.png
-    image_path: /assets/images/groundhog1.png
-  - url: https://mayonais.github.io/assets/images/groundhog2.png
-    image_path: /assets/images/groundhog2.png
-  - url: https://mayonais.github.io/assets/images/random.png
-    image_path: /assets/images/random.png
-  - url: https://mayonais.github.io/assets/images/curry.png
-    image_path: /assets/images/curry.png
+  - url: https://mayonais.github.io/assets/images/bridge1.jpg
+    image_path: /assets/images/bridge1.jpg
+  - url: https://mayonais.github.io/assets/images/bridge2.jpg
+    image_path: /assets/images/bridge2.jpg
+  - url: https://mayonais.github.io/assets/images/casino1.jpg
+    image_path: /assets/images/casino1.jpg
+  - url: https://mayonais.github.io/assets/images/casino2.jpg
+    image_path: /assets/images/casino2.jpg
+  - url: https://mayonais.github.io/assets/images/dome.jpg
+    image_path: /assets/images/dome.jpg
+  - url: https://mayonais.github.io/assets/images/groundhog1.jpg
+    image_path: /assets/images/groundhog1.jpg
+  - url: https://mayonais.github.io/assets/images/groundhog2.jpg
+    image_path: /assets/images/groundhog2.jpg
+  - url: https://mayonais.github.io/assets/images/random.jpg
+    image_path: /assets/images/random.jpg
+  - url: https://mayonais.github.io/assets/images/curry.jpg
+    image_path: /assets/images/curry.jpg
 header:
     image: /assets/images/photography.png
 ---
