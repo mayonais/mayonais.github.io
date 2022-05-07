@@ -1,4 +1,5 @@
 ---
+title: "Adobe"
 excerpt: "Graphics created using Adobe Photoshop and Illustrator."
 gallery:
   - url: /assets/images/flyaway.png
@@ -17,10 +18,10 @@ gallery:
     image_path: /assets/images/leedohyun.png
   - url: /assets/images/skiing.gif
     image_path: /assets/images/skiing.gif
-  - url: assets/images/merged.gif
-    image_path: assets/images/merged.gif
-  - url: /assets/images/glitch.png
-    image_path: /assets/images/glitch.png
+  - url: assets/images/merged.png
+    image_path: assets/images/merged.png
+  - url: /assets/images/glitch.gif
+    image_path: /assets/images/glitch.gif
 gallery2:
   - url: /assets/images/nihao.png
     image_path: /assets/images/nihao.png
@@ -31,10 +32,11 @@ gallery2:
 header:
     image: /assets/images/adobephotoshop.png
 ---
-<h3> Adobe Photoshop </h3>
+<p> </p>  
+<p> Adobe Photoshop </p>
 {% include gallery id="gallery" %}
 
-<h3> Adobe Illustrator </h3>
+<p> Adobe Illustrator </p>
 {% include gallery id="gallery2" %}
 
 If you would like to see the resources I used to create these graphics, check out this <a href="https://drive.google.com/drive/folders/1epWAD-ZGuQLilRX0bZSfOem0Q00epUL7?usp=sharing">link!</a>

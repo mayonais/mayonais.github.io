@@ -21,27 +21,28 @@ gallery:
   - url: /assets/images/dandelion.png
     image_path: /assets/images/dandelion.png
 gallery2:
-  - url: /assets/images/bridge1.png
+  - url: https://mayonais.github.io/assets/images/bridge1.png
+    image_path: /assets/images/bridge1.png
+  - url: https://mayonais.github.io/assets/images/bridge2.png
     image_path: /assets/images/bridge2.png
-  - url: /assets/images/bridge2.png
-    image_path: /assets/images/bridge2.png
-  - url: /assets/images/casino1.png
+  - url: https://mayonais.github.io/assets/images/casino1.png
     image_path: /assets/images/casino1.png
-  - url: /assets/images/casino2.png
+  - url: https://mayonais.github.io/assets/images/casino2.png
     image_path: /assets/images/casino2.png
-  - url: /assets/images/dome.png
+  - url: https://mayonais.github.io/assets/images/dome.png
     image_path: /assets/images/dome.png
-  - url: /assets/images/groundhog1.png
+  - url: https://mayonais.github.io/assets/images/groundhog1.png
     image_path: /assets/images/groundhog1.png
-  - url: /assets/images/groundhog2.png
+  - url: https://mayonais.github.io/assets/images/groundhog2.png
     image_path: /assets/images/groundhog2.png
-  - url: /assets/images/random.png
+  - url: https://mayonais.github.io/assets/images/random.png
     image_path: /assets/images/random.png
-  - url: /assets/images/curry.png
+  - url: https://mayonais.github.io/assets/images/curry.png
     image_path: /assets/images/curry.png
 header:
     image: /assets/images/photography.png
 ---
+<p> </p>
 <p><i class="fas fa-map-marker-alt"></i>  Chicago, Illinois, USA</p>
 {% include gallery id="gallery" %}
 
