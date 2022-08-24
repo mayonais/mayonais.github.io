@@ -27,18 +27,12 @@ gallery2:
     image_path: /assets/images/bridge2.JPG
   - url: https://mayonais.github.io/assets/images/casino1.JPG
     image_path: /assets/images/casino1.JPG
-  - url: https://mayonais.github.io/assets/images/casino2.JPG
-    image_path: /assets/images/casino2.JPG
   - url: https://mayonais.github.io/assets/images/dome.JPG
     image_path: /assets/images/dome.JPG
-  - url: https://mayonais.github.io/assets/images/groundhog1.JPG
-    image_path: /assets/images/groundhog1.JPG
   - url: https://mayonais.github.io/assets/images/groundhog2.JPG
     image_path: /assets/images/groundhog2.JPG
   - url: https://mayonais.github.io/assets/images/random.JPG
     image_path: /assets/images/random.JPG
-  - url: https://mayonais.github.io/assets/images/curry.JPG
-    image_path: /assets/images/curry.JPG
 header:
     image: /assets/images/photography.png
 ---

@@ -32,11 +32,12 @@ gallery2:
 header:
     image: /assets/images/adobephotoshop.png
 ---
-<h4> Adobe Photoshop </h4>
+<p> </p>
+<p> Adobe Photoshop </p>
 {% include gallery id="gallery" %}
 
-<h4> Adobe Illustrator </h4>
+<p> Adobe Illustrator </p>
 {% include gallery id="gallery2" %}
 
-If you would like to see the resources I used to create these graphics, check out this <a href="https://drive.google.com/drive/folders/1epWAD-ZGuQLilRX0bZSfOem0Q00epUL7?usp=sharing">link!</a>
+If you would like to see the resources I used to create these graphics, click this <a href="https://drive.google.com/drive/folders/1epWAD-ZGuQLilRX0bZSfOem0Q00epUL7?usp=sharing">link</a>
 {: .notice}

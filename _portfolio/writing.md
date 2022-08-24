@@ -7,6 +7,7 @@ gallery:
 - url: /assets/images/southerner.png
   image_path: /assets/images/southerner.png
 ---
+<p> </p>
 Listed from most recent to least recent:
 <ul>
     <li> <a href="https://docs.google.com/document/d/1zOUrK9_8dZTpN6j5lG-nOwsCNTrNrbCabsJU4Zx4hLM/edit?usp=sharing">A Nation’s Right to Self-Determination</a></li>
