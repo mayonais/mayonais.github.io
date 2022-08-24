@@ -34,11 +34,13 @@ gallery2:
   - url: https://mayonais.github.io/assets/images/random.JPG
     image_path: /assets/images/random.JPG
 header:
-    image: /assets/images/photography.png
+    image: /assets/images/banner.png
 ---
-<p> </p>
+<hr>
 <p><i class="fas fa-map-marker-alt"></i>  Chicago, Illinois, USA</p>
 {% include gallery id="gallery" %}
 
 <p><i class="fas fa-map-marker-alt"></i>  Montreal, Quebec, CA</p>
 {% include gallery id="gallery2" %}
+
+<p><i class="fas fa-map-marker-alt"></i>  New York City, New York, USA</p>

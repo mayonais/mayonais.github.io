@@ -30,14 +30,14 @@ gallery2:
   - url: /assets/images/blank.png
     image_path: /assets/images/blank.png
 header:
-    image: /assets/images/adobephotoshop.png
+    image: /assets/images/banner.png
 ---
-<p> </p>
-<p> Adobe Photoshop </p>
+<hr>
+<h4> Adobe Photoshop </h4>
 {% include gallery id="gallery" %}
 
-<p> Adobe Illustrator </p>
+<h4> Adobe Illustrator </h4>
 {% include gallery id="gallery2" %}
 
-If you would like to see the resources I used to create these graphics, click this <a href="https://drive.google.com/drive/folders/1epWAD-ZGuQLilRX0bZSfOem0Q00epUL7?usp=sharing">link</a>
-{: .notice}
+Click <a href="https://drive.google.com/drive/folders/1epWAD-ZGuQLilRX0bZSfOem0Q00epUL7?usp=sharing">this link</a>
+to see the resources I used. {: .notice}
