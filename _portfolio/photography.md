@@ -20,12 +20,12 @@ gallery:
     image_path: /assets/images/white-flower.png
   - url: /assets/images/dandelion.png
     image_path: /assets/images/dandelion.png
-  - url: https://mayonais.github.io/assets/images/mural.JPG
-    image_path: /assets/images/mural.JPG
-  - url: https://mayonais.github.io/assets/images/boats.JPG
-    image_path: /assets/images/boats.JPG
-  - url: https://mayonais.github.io/assets/images/sky.JPG
-    image_path: /assets/images/sky.JPG
+  - url: https://mayonais.github.io/assets/images/mural.jpg
+    image_path: /assets/images/mural.jpg
+  - url: https://mayonais.github.io/assets/images/boats.jpg
+    image_path: /assets/images/boats.jpg
+  - url: https://mayonais.github.io/assets/images/sky.jpg
+    image_path: /assets/images/sky.jpg
 gallery2:
   - url: https://mayonais.github.io/assets/images/bridge1.JPG
     image_path: /assets/images/bridge1.JPG
@@ -40,50 +40,50 @@ gallery2:
   - url: https://mayonais.github.io/assets/images/random.JPG
     image_path: /assets/images/random.JPG
 gallery3:
-  - url: https://mayonais.github.io/assets/images/moon.JPG
-    image_path: /assets/images/moon.JPG
-  - url: https://mayonais.github.io/assets/images/bluecrowd.JPG
-    image_path: /assets/images/bluecrowd.JPG
-  - url: https://mayonais.github.io/assets/images/cello.JPG
-    image_path: /assets/images/cello.JPG
-  - url: https://mayonais.github.io/assets/images/bridge3.JPG
-    image_path: /assets/images/bridge3.JPG
-  - url: https://mayonais.github.io/assets/images/concert.JPG
-    image_path: /assets/images/concert.JPG
-  - url: https://mayonais.github.io/assets/images/metlife.JPG
-    image_path: /assets/images/metlife.JPG
-  - url: https://mayonais.github.io/assets/images/sunset.JPG
-    image_path: /assets/images/sunset.JPG
-  - url: https://mayonais.github.io/assets/images/dips.JPG
-    image_path: /assets/images/dips.JPG
-  - url: https://mayonais.github.io/assets/images/longflower.JPG
-    image_path: /assets/images/longflower.JPG
-  - url: https://mayonais.github.io/assets/images/shadow.JPG
-    image_path: /assets/images/shadow.JPG
-  - url: https://mayonais.github.io/assets/images/helicopter.JPG
-    image_path: /assets/images/helicopter.JPG
-  - url: https://mayonais.github.io/assets/images/bakery.JPG
-    image_path: /assets/images/bakery.JPG
-  - url: https://mayonais.github.io/assets/images/wine.JPG
-    image_path: /assets/images/wine.JPG
-  - url: https://mayonais.github.io/assets/images/yellowflowers.JPG
-    image_path: /assets/images/yellowflowers.JPG
-  - url: https://mayonais.github.io/assets/images/purpleflowers.JPG
-    image_path: /assets/images/purpleflowers.JPG
+  - url: https://mayonais.github.io/assets/images/moon.jpg
+    image_path: /assets/images/moon.jpg
+  - url: https://mayonais.github.io/assets/images/bluecrowd.jpg
+    image_path: /assets/images/bluecrowd.jpg
+  - url: https://mayonais.github.io/assets/images/cello.jpg
+    image_path: /assets/images/cello.jpg
+  - url: https://mayonais.github.io/assets/images/bridge3.jpg
+    image_path: /assets/images/bridge3.jpg
+  - url: https://mayonais.github.io/assets/images/concert.jpg
+    image_path: /assets/images/concert.jpg
+  - url: https://mayonais.github.io/assets/images/metlife.jpg
+    image_path: /assets/images/metlife.jpg
+  - url: https://mayonais.github.io/assets/images/sunset.jpg
+    image_path: /assets/images/sunset.jpg
+  - url: https://mayonais.github.io/assets/images/dips.jpg
+    image_path: /assets/images/dips.jpg
+  - url: https://mayonais.github.io/assets/images/longflower.jpg
+    image_path: /assets/images/longflower.jpg
+  - url: https://mayonais.github.io/assets/images/shadow.jpg
+    image_path: /assets/images/shadow.jpg
+  - url: https://mayonais.github.io/assets/images/helicopter.jpg
+    image_path: /assets/images/helicopter.jpg
+  - url: https://mayonais.github.io/assets/images/bakery.jpg
+    image_path: /assets/images/bakery.jpg
+  - url: https://mayonais.github.io/assets/images/wine.jpg
+    image_path: /assets/images/wine.jpg
+  - url: https://mayonais.github.io/assets/images/yellowflowers.jpg
+    image_path: /assets/images/yellowflowers.jpg
+  - url: https://mayonais.github.io/assets/images/purpleflowers.jpg
+    image_path: /assets/images/purpleflowers.jpg
 gallery4:
-  - url: https://mayonais.github.io/assets/images/sailship.JPG
-    image_path: /assets/images/sailship.JPG
-  - url: https://mayonais.github.io/assets/images/library2.JPG
-    image_path: /assets/images/library2.JPG
-  - url: https://mayonais.github.io/assets/images/reflection.JPG
-    image_path: /assets/images/reflection.JPG
+  - url: https://mayonais.github.io/assets/images/sailship.jpg
+    image_path: /assets/images/sailship.jpg
+  - url: https://mayonais.github.io/assets/images/library2.jpg
+    image_path: /assets/images/library2.jpg
+  - url: https://mayonais.github.io/assets/images/reflection.jpg
+    image_path: /assets/images/reflection.jpg
 gallery5:
-  - url: https://mayonais.github.io/assets/images/fireworks1.JPG
-    image_path: /assets/images/fireworks1.JPG
-  - url: https://mayonais.github.io/assets/images/fireworks2.JPG
-    image_path: /assets/images/fireworks2.JPG
-  - url: https://mayonais.github.io/assets/images/fireworks4.JPG
-    image_path: /assets/images/fireworks4.JPG
+  - url: https://mayonais.github.io/assets/images/fireworks1.jpg
+    image_path: /assets/images/fireworks1.jpg
+  - url: https://mayonais.github.io/assets/images/fireworks2.jpg
+    image_path: /assets/images/fireworks2.jpg
+  - url: https://mayonais.github.io/assets/images/fireworks4.jpg
+    image_path: /assets/images/fireworks4.jpg
 header:
     image: /assets/images/banner.png
 ---

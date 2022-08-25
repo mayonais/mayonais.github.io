@@ -39,5 +39,5 @@ header:
 <h4> Adobe Illustrator </h4>
 {% include gallery id="gallery2" %}
 
-Click <a href="https://drive.google.com/drive/folders/1epWAD-ZGuQLilRX0bZSfOem0Q00epUL7?usp=sharing">this link</a>
-to see the resources I used. {: .notice}
+Click <a href="https://drive.google.com/drive/folders/1epWAD-ZGuQLilRX0bZSfOem0Q00epUL7?usp=sharing">this link</a> to see the resources I used
+{: .notice}
