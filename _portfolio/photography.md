@@ -24,8 +24,8 @@ gallery:
     image_path: /assets/images/mural.png
   - url: /assets/images/boats.png
     image_path: /assets/images/boats.png
-  - url: /assets/images/sky.png
-    image_path: /assets/images/sky.png
+  - url: /assets/images/building.heic
+    image_path: /assets/images/building.heic
 gallery2:
   - url: https://mayonais.github.io/assets/images/bridge1.JPG
     image_path: /assets/images/bridge1.JPG
