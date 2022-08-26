@@ -20,12 +20,20 @@ gallery:
     image_path: /assets/images/white-flower.png
   - url: /assets/images/dandelion.png
     image_path: /assets/images/dandelion.png
-  - url: /assets/images/mural.png
-    image_path: /assets/images/mural.png
-  - url: /assets/images/boats.png
-    image_path: /assets/images/boats.png
-  - url: /assets/images/building.heic
-    image_path: /assets/images/building.heic
+  - url: /assets/images/mural.jpg
+    image_path: /assets/images/mural.jpg
+  - url: /assets/images/boats.jpg
+    image_path: /assets/images/boats.jpg
+  - url: /assets/images/building.jpg
+    image_path: /assets/images/building.jpg
+  - url: /assets/images/sky.jpg
+    image_path: /assets/images/sky.jpg
+  - url: /assets/images/building.jpg
+    image_path: /assets/images/building.jpg
+  - url: /assets/images/flower1.jpg
+    image_path: /assets/images/flower1.jpg
+  - url: /assets/images/ferriswheel.jpg
+    image_path: /assets/images/ferriswheel.jpg
 gallery2:
   - url: https://mayonais.github.io/assets/images/bridge1.JPG
     image_path: /assets/images/bridge1.JPG
