@@ -1,9 +1,7 @@
 # main links
 main:
-  - title: "About Me"
-    url: https://mayonais.github.io/
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "to new site"
+    url: http://sopha.neocities.org
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

@@ -17,7 +17,11 @@ minimal_mistakes_skin: "contrast"
 
 # Site Settings
 locale: "en-US"
-title: "CHECK_UPDATE"
+google_fonts:
+  - family: "Inconsolata"
+    weights: "400,600"
+font_family: "Inconsolata"
+title: "Sophia Mao's website"
 incremental: false
 title_separator: "-"
 name: "Sophia Mao"
@@ -26,46 +30,32 @@ url: "https://mayonais.github.io/" # the base hostname & protocol for your site 
 repository: "mayonais/mayonais.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 masthead_title: " " # overrides the website title displayed in the masthead, use " " for no title
 words_per_minute: 200
+atom_feed:
+  hide: true
 
 
 # Site Author
 author:
-  name             : "Sophia Mao"
-  avatar           : "/assets/images/pfp6.png"
-  bio              : " "
+  name: "Sophia Mao"
+  avatar: "/assets/images/smartgudetama.png"
+  bio: " "
   links:
     - label: "yysmao@gmail.com"
       icon: "far fa-envelope"
       url: ""
-    - label: "LinkedIn"
+    - label: "linkedin"
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/sophia-mao-49064316a/"
-    - label: "GitHub"
+    - label: "github"
       icon: "fab fa-github-alt"
       url: "https://github.com/mayonais"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-
 
 # Reading Files
 include:
