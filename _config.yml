@@ -49,6 +49,9 @@ author:
     - label: "github"
       icon: "fab fa-github-alt"
       url: "https://github.com/mayonais"
+    - label: "personal site"
+      icon: "fas fa-globe"
+      url: "https://sopha.neocities.org/"
 
 # Site Footer
 footer:
